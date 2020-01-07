@@ -6,11 +6,9 @@ age = int(input("If I may also know your age dearest user? \n"))
 year = 2020 + (100 - age)
 year = str(year)
 
-print ("My user your name is",name, "and you age is",age, ".")
+print ("My user your name is " + name + " and you age is " + str(age) + ".")
 
-result =name + ', you will turn 100 years old in ' + year + '.' + '\nHave fun while it lasts. \n:)'
-
-print (result)
+print (name + ', you will turn 100 years old in ' + year + '.' + '\nHave fun while it lasts. \n:)\n')
 
 n = int(input("\n\nPlease enter an integer from 1 - 10.\n"))
 
