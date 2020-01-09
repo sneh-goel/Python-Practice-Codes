@@ -9,3 +9,6 @@ b = [element for element in a if element%2 == 0]
 print (a)
 print ("List of only even elements - ")
 print (b)
+
+
+#  END  #

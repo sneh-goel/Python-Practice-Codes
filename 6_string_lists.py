@@ -24,3 +24,6 @@ if p == q:
     print ("Entered string is a Palindrome.")
 else:
     print ("Entered string is not a Palindrome.")
+
+
+#  END  #

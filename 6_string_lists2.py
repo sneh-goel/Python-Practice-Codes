@@ -9,3 +9,6 @@ if word == reverse:
     print ("Entered word is Palindrome.")
 else:
     print ("It is not a Palindrome.")
+
+
+#  END  #

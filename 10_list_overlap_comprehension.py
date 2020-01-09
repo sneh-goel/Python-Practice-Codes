@@ -25,3 +25,6 @@ c = [element for element in set(a) if element in b]
 print (a)
 print (b)
 print (c)
+
+
+#  END  #
